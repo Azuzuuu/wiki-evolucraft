@@ -14,9 +14,12 @@ Voici les différents types d’événements que tu pourras expérimenter sur le
 
 Assistez aux enchères et misez sur des objets rares et précieux. Faites monter les enchères et repartez avec des trésors uniques. Tous les jours à 19h00
 
+Remarque : Il faudra avoir au minimum avoir 50 000$ sur soi (qui ne sont pas déduit) pour rentrer dans l'événement des enchères !
+
 ### <mark style="color:green;">Event Pêche</mark>
 
-Pêchez pendant 15 minutes pour attraper des poissons d'une certaine rareté. Tous les jours à 21h00
+Pêchez pendant 15 minutes pour attraper des poissons d'une certaine rareté.
+Tous les jours à 21h00
 
 ### <mark style="color:green;">Course</mark>
 
