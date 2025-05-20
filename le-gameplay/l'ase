@@ -1,0 +1,112 @@
+---
+description: Retrouvez ici toutes les informations concernant les coffres de vente
+---
+
+# Le /ase
+
+Le `/ase` vous permet de **personnaliser vos armor stands** afin d’apporter de la vie dans vos villes ou encore de magnifiques détails à vos shops de villes.
+
+## Comment l’obtenir :thinking:?
+
+Pour accéder à la commande `/ase`, vous devez disposer du **Premium :crown:** que vous pouvez obtenir par deux moyen :
+
+* Soit **gratuitement par la box vote** pendant **24 heures** !
+* Soit par **l'abonnement mensuel** disponible à **la <a href="https://store.evolucraft.fr/">boutique</a> du site**.
+
+## Le `/ase`, comment ça fonctionne ?
+
+Pour personnaliser un **armor stand**, vous aurez besoin d'un <mark style="color:green;">**silex** et d'un ou plusieurs <mark style="color:green;">**armor stand(s)**</mark>, disponible dans le `/shop`
+
+Ensuite, pour accéder au menu de personnalisation, **faites un clic droit avec le silex en main, sans viser l’armor stand**. Cela ouvrira le **menu `/ase`**.
+
+<figure><img src="../.gitbook/assets/"MenuAse".png" alt=""><figcaption><p><strong>Nom de l'aperçu</strong></p></figcaption></figure>
+
+> :lock: **Important** : assurez-vous d’avoir les **permissions d’édition des portes-armures** dans votre rôle :
+> `/v > rôle > "votre rôle" > Paramètres d’action > page 2 > Édition de porte-armure`
+
+## Que peut-on faire avec le `/ase` ?
+
+### :small_blue_diamond: Déplacer un armor stand
+
+Pour un positionnement précis, cliquez sur **l’option "Position"** (représentée par un rail).
+
+Deux types de déplacement sont possibles :
+
+* **Bloc de terre stérile (coarse dirt)** → déplace l’armor stand de **1 bloc**
+* **Bloc de grès lisse (smooth sandstone)** → déplace l’armor stand de **1 pixel** par clic
+
+Choisissez ensuite l’**axe de déplacement** :
+
+* **X** (rouge)
+* **Y** (vert)
+* **Z** (bleu)
+  (Les couleurs sont affichées dans le même ordre dans le menu.)
+
+Puis, avec le silex toujours en main :
+
+* **Clic droit** sur l’armor stand → déplacement **dans les coordonnées positives**
+* **Clic gauche** → déplacement **dans les coordonnées négatives**
+
+### **– Ajouter des éléments sur votre armor stand**
+
+Pour ajouter des éléments à votre porte-armure, commencez par ouvrir le menu du `/ase`, puis **cliquez sur l’icône en forme de coffre**. Ensuite, **faites un clic droit sur votre porte-armure** pour ouvrir un nouvel affichage.
+
+Dans ce menu, **chaque emplacement en haut représente une partie du corps** :
+Par exemple, si vous souhaitez placer un objet sur la tête du porte-armure, **placez-le dans l’emplacement situé sous le casque**.
+
+> 🔎 **Remarque** : seuls les équipements d’armure peuvent être visibles sur les emplacements du plastron, du pantalon et des bottes. Il n’est donc **pas possible d’y placer un objet ou une tête personnalisée**.
+
+### **– Afficher les bras de l’armor stand**
+
+Pour afficher les bras du porte-armure, ouvrez le menu du `/ase`, sélectionnez **l’icône en forme de bâton**, puis **cliquez sur le porte-armure** pour activer ou désactiver les bras.
+
+### **– Bouger les membres (tête, corps, bras et jambes) librement**
+
+Pour modifier la position des différentes parties du porte-armure, la méthode est similaire à celle du déplacement général.
+
+1. Dans le menu `/ase`, **cliquez sur la partie du corps à modifier** :
+
+   * Casque : pour la tête
+   * Plastron : pour le haut du corps
+   * Jambières (à gauche) : pour la jambe gauche
+   * Jambières (à droite) : pour la jambe droite
+
+2. Choisissez la précision du mouvement :
+
+   * **Bloc de terre stérile (coarse dirt)** : déplacement de **1 bloc**
+   * **Bloc de grès lisse (smooth sandstone)** : déplacement de **1 pixel**
+
+3. Sélectionnez l’**axe de rotation** :
+
+   * **X (rouge)**
+   * **Y (vert)**
+   * **Z (bleu)**
+
+4. Avec le silex en main, **cliquez sur le porte-armure** :
+
+   * **Clic droit** : rotation en **coordonnée positive**
+   * **Clic gauche** : rotation en **coordonnée négative**
+
+> 🔄 **Remarque** : les parties du corps peuvent uniquement **tourner sur elles-mêmes à 360°**, et non se déplacer latéralement.
+
+## ⚙️ Quelques options de personnalisation supplémentaires...
+
+* **🧪 Potion d'invisibilité** : rend le **porte-armure invisible**, mais uniquement sa structure de base. Les éléments ajoutés dessus (armures, objets, etc.) **restent visibles**.
+
+* **🐡 Poisson-globe** : change la **taille de l’armor stand**. Deux tailles sont disponibles : la taille **standard** et une version **réduite**, équivalente à celle d’un **bébé villageois**.
+
+* **🪨 Dalle de pierre lisse (Smooth Stone Slab)** : permet de **retirer la plateforme en pierre** sous l’armor stand, ne laissant visible que la **partie en bois**.
+
+* **🏖️ Bloc de sable** : ajoute un **effet de gravité** à l’armor stand. S’il est suspendu dans les airs, il tombera au sol dès que la gravité sera activée.
+
+* **✨ Poche d’encre lumineuse (Glow Ink Sac)** : applique un **effet lumineux blanc** à l’armor stand, le rendant plus visible dans l’obscurité.
+
+> 🔄 **Remarque** : Si vous désactivez l’effet lumineux, **quittez puis revenez dans la zone** pour que le changement soit visible.
+
+* **🚫 Bloc invisible** : permet de **désactiver l’interaction avec l’armure** sur le porte-armure. Les objets restent visibles, mais **ne peuvent plus être récupérés**.
+
+* **🪣 Seau d’eau** : **réinitialise la position de l’armor stand**, sans retirer les objets ou armures posés dessus.
+
+* **🧭 Boussole** : fait **pivoter** l’ensemble du porte-armure sur lui-même.
+
+* **🖼️ Cadre (Item Frame)** : rend un **cadre invisible**, ne laissant apparaître que **l’objet** placé à l’intérieur.
