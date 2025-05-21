@@ -32,12 +32,12 @@ Assurez-vous d’avoir les <mark style="color:green;">**permissions d’édition
 
 Pour un déplacer votre armor stand, sur un endroit précis par exemple, vous devez :
 
-Étape 1️⃣ : Cliquer sur le rail nommée "position".
-Étape 2️⃣ : Choisir si vous souhaitez un gros déplacement (la terre stérile/coarse dirt) ou un petit déplacement (grès lisse/smooth sandstone).
-Étape 3️⃣ : Choisir l'axe que vous voulez déplacer votre armor stand, X en rouge, Y en vert et Z en bleu.
-Étape 4️⃣ : Puis, avec le silex toujours en main, faites soit un
-* **Clic droit** sur l’armor stand → déplacement **dans les coordonnées positives**
-* **Clic gauche** → déplacement **dans les coordonnées négatives**
+* <mark style="color:green;">Étape 1️⃣</mark> : Cliquer sur le <mark style="color:green;">rail nommée "position"</mark>.
+* <mark style="color:green;">Étape 2️⃣</mark> : Choisir si vous souhaitez <mark style="color:green;">un gros déplacement</mark> (*la terre stérile/coarse dirt*) ou <mark style="color:green;">un petit déplacement</mark> (*grès lisse/smooth sandstone*).
+* <mark style="color:green;">Étape 3️⃣</mark> : Choisir <mark style="color:green;">l'axe que vous voulez déplacer</mark> votre armor stand, <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
+* <mark style="color:green;">Étape 4️⃣</mark> : Puis, avec le silex toujours en main, faites soit :
+ * Un <mark style="color:green;">**clic droit** sur l’armor stand pour un <mark style="color:green;">déplacement **dans les coordonnées positives**</mark>.
+ * Un <mark style="color:green;">**clic gauche** pour un <mark style="color:green;">déplacement **dans les coordonnées négatives**</mark>.
 
 {% hint style="info" %}
 Astuce 💡: Pour changer l'axe de déplacement, il vous ne suffira de faire le raccourcis clavier **sneak + mollette**.
@@ -45,18 +45,17 @@ Astuce 💡: Pour changer l'axe de déplacement, il vous ne suffira de faire le 
 
 ### 💠 Ajouter des éléments sur votre armor stand
 
-Pour ajouter des éléments à votre porte-armure, commencez par ouvrir le menu du `/ase`, puis **cliquez sur l’icône du coffre**. Ensuite, **faites un clic droit sur votre porte-armure** pour ouvrir un nouvel affichage.
+Pour ajouter des <mark style="color:green;">**éléments à votre porte-armure**</mark>, commencez par ouvrir le menu du `/ase`, puis cliquez sur <mark style="color:green;">**l’icône du coffre**</mark>. Ensuite, faites un clic droit sur <mark style="color:green;">**votre porte-armure**</mark> pour ouvrir un nouvel affichage. Dans ce nouveau menu, <mark style="color:green;">**chaque emplacement en haut représente une partie du corps**</mark>. 
 
-Dans ce nouveau menu, **chaque emplacement en haut représente une partie du corps** :
-Par exemple, si vous souhaitez placer un objet sur la tête du porte-armure, **placez-le dans l’emplacement situé sous le casque**.
+Par exemple, si vous souhaitez placer **un objet sur la tête du porte-armure**, placez-le dans l’emplacement **situé sous le casque**.
 
 {% hint style="info" %}
-> 🔎 **Remarque** : **seuls les équipements d’armure** peuvent être visibles **sur les emplacements du plastron, du pantalon et des bottes**. Il n’est donc **pas possible d’y placer un objet ou une tête personnalisée**.
+> 🔎 **Remarque** : **seuls les équipements d’armure** peuvent être visibles **sur les emplacements du plastron, du pantalon et des bottes**. Il n’est donc <mark style="color:green;">**pas possible d’y placer un objet ou une tête personnalisée**</mark>.
 {% endhint %}
 
-### **– Afficher les bras de l’armor stand**
+### 💠 Afficher les bras de l’armor stand
 
-Pour afficher les bras du porte-armure, ouvrez le menu du `/ase`, sélectionnez **l’icône en forme de bâton**, puis **cliquez sur le porte-armure** pour activer ou désactiver les bras.
+Pour afficher <mark style="color:green;">les bras du porte-armure, ouvrez le menu du `/ase`, sélectionnez **l’icône en forme de bâton**, puis **cliquez sur le porte-armure** pour activer ou désactiver les bras.
 
 ### **– Bouger les membres (tête, corps, bras et jambes) librement**
 
