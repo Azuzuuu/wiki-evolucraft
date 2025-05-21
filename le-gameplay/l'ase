@@ -2,59 +2,57 @@
 description: Retrouvez ici toutes les informations concernant les coffres de vente
 ---
 
-# Le /ase
+# Le /ase 🎎
 
-Le `/ase` vous permet de **personnaliser vos armor stands** afin d’apporter de la vie dans vos villes ou encore de magnifiques détails à vos shops de villes.
+Le `/ase` vous permet de <mark style="color:green;">**personnaliser vos armor stands**</mark> afin d’apporter de la vie dans vos villes ou encore de magnifiques détails à vos shops de villes.
 
-## Comment l’obtenir :thinking:?
+## Comment l’obtenir 🎁?
 
-Pour accéder à la commande `/ase`, vous devez disposer du **Premium :crown:** que vous pouvez obtenir par deux moyen :
+Pour accéder à la commande `/ase`, vous devez disposer du <mark style="color:green;">**Premium 👑**</mark> que vous pouvez obtenir par deux moyen :
 
-* Soit **gratuitement par la box vote** pendant **24 heures** !
-* Soit par **l'abonnement mensuel** disponible à **la <a href="https://store.evolucraft.fr/">boutique</a> du site**.
+* Soit <mark style="color:green;">**gratuitement par la box vote**</mark> pendant **24 heures** !
+* Soit par <mark style="color:green;">**l'abonnement mensuel**</mark> disponible à **la <a href="https://store.evolucraft.fr/">boutique</a> du site**.
 
-## Le `/ase`, comment ça fonctionne ?
+## Le `/ase`, comment ça fonctionne 🤔?
 
-Pour personnaliser un **armor stand**, vous aurez besoin d'un <mark style="color:green;">**silex** et d'un ou plusieurs <mark style="color:green;">**armor stand(s)**</mark>, disponible dans le `/shop`
+Pour personnaliser un **armor stand**, vous aurez besoin d'un <mark style="color:green;">**silex**</mark> et d'un ou plusieurs <mark style="color:green;">**armor stand(s)**</mark>, disponible dans le `/shop`
 
-Ensuite, pour accéder au menu de personnalisation, **faites un clic droit avec le silex en main, sans viser l’armor stand**. Cela ouvrira le **menu `/ase`**.
+Ensuite, pour accéder <mark style="color:green;">**au menu de l'ase**</mark>, faites un **clic droit avec le silex en main, sans viser l’armor stand**.
+
+{% hint style="warning" %}
+**Important 🚨** : 
+Assurez-vous d’avoir les <mark style="color:green;">**permissions d’édition des portes-armures**</mark> dans votre rôle en regardant dans le `/v > rôle > "votre rôle" > paramètres d’action > page 2 > Édition de porte-armure`
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/"MenuAse".png" alt=""><figcaption><p><strong>Nom de l'aperçu</strong></p></figcaption></figure>
 
-> :lock: **Important** : assurez-vous d’avoir les **permissions d’édition des portes-armures** dans votre rôle :
-> `/v > rôle > "votre rôle" > Paramètres d’action > page 2 > Édition de porte-armure`
+## Que peut-on faire avec le `/ase` 🔎?
 
-## Que peut-on faire avec le `/ase` ?
+### 💠 Déplacer un armor stand
 
-### :small_blue_diamond: Déplacer un armor stand
+Pour un déplacer votre armor stand, sur un endroit précis par exemple, vous devez :
 
-Pour un positionnement précis, cliquez sur **l’option "Position"** (représentée par un rail).
-
-Deux types de déplacement sont possibles :
-
-* **Bloc de terre stérile (coarse dirt)** → déplace l’armor stand de **1 bloc**
-* **Bloc de grès lisse (smooth sandstone)** → déplace l’armor stand de **1 pixel** par clic
-
-Choisissez ensuite l’**axe de déplacement** :
-
-* **X** (rouge)
-* **Y** (vert)
-* **Z** (bleu)
-  (Les couleurs sont affichées dans le même ordre dans le menu.)
-
-Puis, avec le silex toujours en main :
-
+Étape 1️⃣ : Cliquer sur le rail nommée "position".
+Étape 2️⃣ : Choisir si vous souhaitez un gros déplacement (la terre stérile/coarse dirt) ou un petit déplacement (grès lisse/smooth sandstone).
+Étape 3️⃣ : Choisir l'axe que vous voulez déplacer votre armor stand, X en rouge, Y en vert et Z en bleu.
+Étape 4️⃣ : Puis, avec le silex toujours en main, faites soit un
 * **Clic droit** sur l’armor stand → déplacement **dans les coordonnées positives**
 * **Clic gauche** → déplacement **dans les coordonnées négatives**
 
-### **– Ajouter des éléments sur votre armor stand**
+{% hint style="info" %}
+Astuce 💡: Pour changer l'axe de déplacement, il vous ne suffira de faire le raccourcis clavier **sneak + mollette**.
+{% endhint %}
 
-Pour ajouter des éléments à votre porte-armure, commencez par ouvrir le menu du `/ase`, puis **cliquez sur l’icône en forme de coffre**. Ensuite, **faites un clic droit sur votre porte-armure** pour ouvrir un nouvel affichage.
+### 💠 Ajouter des éléments sur votre armor stand
 
-Dans ce menu, **chaque emplacement en haut représente une partie du corps** :
+Pour ajouter des éléments à votre porte-armure, commencez par ouvrir le menu du `/ase`, puis **cliquez sur l’icône du coffre**. Ensuite, **faites un clic droit sur votre porte-armure** pour ouvrir un nouvel affichage.
+
+Dans ce nouveau menu, **chaque emplacement en haut représente une partie du corps** :
 Par exemple, si vous souhaitez placer un objet sur la tête du porte-armure, **placez-le dans l’emplacement situé sous le casque**.
 
-> 🔎 **Remarque** : seuls les équipements d’armure peuvent être visibles sur les emplacements du plastron, du pantalon et des bottes. Il n’est donc **pas possible d’y placer un objet ou une tête personnalisée**.
+{% hint style="info" %}
+> 🔎 **Remarque** : **seuls les équipements d’armure** peuvent être visibles **sur les emplacements du plastron, du pantalon et des bottes**. Il n’est donc **pas possible d’y placer un objet ou une tête personnalisée**.
+{% endhint %}
 
 ### **– Afficher les bras de l’armor stand**
 
