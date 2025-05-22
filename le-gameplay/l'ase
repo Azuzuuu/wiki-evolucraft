@@ -75,6 +75,19 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 **Remarque 🤓☝** : Les parties du corps peuvent uniquement **tourner sur elles-mêmes à 360°**.
 {% endhint %}
 
+### 💠 Ajouter un nom à votre name tag
+
+Pour ajouter un nom visible au-dessus de votre armor stand, il vous suffit d'utiliser un nametag que vous avez préalablement renommé, puis de cliquer sur l’armor stand avec ce nametag.
+
+Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnaliser le texte affiché :
+- **Ajouter de la couleur** à votre texte pour le rendre unique (*voir l'image en dessous pour les codes couleurs*)
+- Mettre le texte en **gras**, en **italique**, le **souligner** ou le **rayer**.
+- Vous pouvez même appliquer un **effet “glitch”** pour un rendu original et dynamique.
+
+
+
+Ainsi, votre armor stand ne portera plus seulement un nom, mais une véritable signature visuelle personnalisée !
+
 ## ⚙️ Quelques options de personnalisation supplémentaires...
 
 * **Potion d'invisibilité** : rend le <mark style="color:green;">**porte-armure invisible**</mark>, mais uniquement sa structure de base. Les éléments ajoutés dessus (armures, objets, etc.) **restent visibles**.
