@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant les coffres de vente
+description: Retrouvez ici toutes les informations concernant l'ase
 ---
 
 # Le /ase 🎎
@@ -77,17 +77,16 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 
 ### 💠 Ajouter un nom à votre name tag
 
-Pour ajouter un nom visible au-dessus de votre armor stand, il vous suffit d'utiliser un nametag que vous avez préalablement renommé, puis de cliquer sur l’armor stand avec ce nametag.
+Pour ajouter un nom visible au-dessus de votre armor stand, il vous suffit d'utiliser **un nametag que vous avez préalablement renommé**, puis de **cliquer sur l’armor stand** avec ce nametag.
 
 Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnaliser le texte affiché :
-- **Ajouter de la couleur** à votre texte pour le rendre unique (*voir l'image en dessous pour les codes couleurs*)
-- Mettre le texte en **gras**, en **italique**, le **souligner** ou le **rayer**.
-- Vous pouvez même appliquer un **effet “glitch”** pour un rendu original et dynamique.
+- <mark style="color:green;">**Ajouter de la couleur**</mark> à votre texte pour le rendre unique (*voir l'image en dessous pour les codes couleurs*)
+- Mettre le texte en <mark style="color:green;">**gras**</mark>, en <mark style="color:green;">**italique**</mark>, le <mark style="color:green;">**souligner**</mark> ou le <mark style="color:green;">**rayer**</mark>.
+- Vous pouvez même appliquer un <mark style="color:green;">**effet “glitch”**</mark> pour un rendu original et dynamique.
 
 <figure><img src="../.gitbook/assets/Tuto-Astuce-AseCouleurs.png" alt=""><figcaption><p><strong>Aperçu des tags des couleurs et des formats</strong></p></figcaption></figure>
-###### Image créer par Minecraft.fr
 
-Ainsi, votre armor stand ne portera plus seulement un nom, mais une véritable signature visuelle personnalisée !
+###### Image créer par Minecraft.fr
 
 ## ⚙️ Quelques options de personnalisation supplémentaires...
 
