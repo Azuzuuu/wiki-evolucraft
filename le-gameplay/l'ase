@@ -63,7 +63,7 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 
 * <mark style="color:green;">Étape 1️⃣</mark> : Dans le menu `/ase`, cliquez sur <mark style="color:green;">**la partie du corps**</mark> à modifier :
 
-<figure><img src="../.gitbook/assets/Tuto-Astuce-AseMembre.png" alt=""><figcaption><p><strong>Aperçu du menu</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto-Astuce-AseMembre.png" alt=""><figcaption><p><strong>Aperçu des membres et de sa correspondance</strong></p></figcaption></figure>
 
 * <mark style="color:green;">Étape 2️⃣</mark> : Comme pour le déplacement d'un armor stand, sélectionnez la puissance du mouvement entre <mark style="color:green;">un gros déplacement</mark> (*terre stérile/coarse dirt*) ou <mark style="color:green;">un petit déplacement</mark> (*grès lisse/smooth sandstone*).
 * <mark style="color:green;">Étape 3️⃣</mark> : Choisissez <mark style="color:green;">l'axe</mark> dans lequel vous voulez positionner la partie déplacée : <mark style="color:red;">X en rouge</mark>, <mark style="color:green;">Y en vert</mark> et <mark style="color:blue;">Z en bleu</mark>.
@@ -84,7 +84,8 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 - Mettre le texte en **gras**, en **italique**, le **souligner** ou le **rayer**.
 - Vous pouvez même appliquer un **effet “glitch”** pour un rendu original et dynamique.
 
-
+<figure><img src="../.gitbook/assets/Tuto-Astuce-AseCouleurs.png" alt=""><figcaption><p><strong>Aperçu des tags des couleurs et des formats</strong></p></figcaption></figure>
+###### Image créer par Minecraft.fr
 
 Ainsi, votre armor stand ne portera plus seulement un nom, mais une véritable signature visuelle personnalisée !
 
