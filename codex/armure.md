@@ -459,4 +459,4 @@ Les <mark style="color:green;">pièces d'Armure d'Été</mark> s'obtiennent dans
 
 | **Aperçue de l'armure 🖼️** | **Statistiques globales 📊** | **Effets✨** |
 | --- | --- | --- |
-| <div><figure><img src="../.gitbook/assets/Codex/Armure/Ete/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:cyan;"><strong>🥊 Chance de Critique</strong></mark> <strong>+80</strong></p><p>▸ <mark style="color:cyan;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:cyan;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
+| <div><figure><img alt="" src="../.gitbook/assets/Codex/Armure/Ete/Complet.png"><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:cyan;"><strong>🥊 Chance de Critique</strong></mark> <strong>+80</strong></p><p>▸ <mark style="color:cyan;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:cyan;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
