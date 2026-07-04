@@ -48,7 +48,7 @@ Pour entrer dans le donjon infini en ayant des <mark style="color:green;">**tick
 Après avoir <mark style="color:green;">**cliqué**</mark>, vous serez alors <mark style="color:green;">**téléporté**</mark> dans une salle bedrock. Et vous serez vidé temporairement de votre inventaire.
 
 {% hint style="warning" %} ATTENTION ⚠️ :
-Nous vous <mark style="color:green; font-weight: bold;">**déconseillons**</mark> de bouger votre inventaire durant ce temps d'attente, car si vous déplacez votre inventaire au moment où le serveur videra votre inventaire, l'item sera perdu !
+Nous vous <mark style="color:green; font-weight: bold;">déconseillons</mark> de bouger votre inventaire durant ce temps d'attente, car si vous déplacez votre inventaire au moment où le serveur videra votre inventaire, l'item sera perdu !
 {% endhint %}
 
 ## 💠 Comment se présente ce donjon infini qui est si différent des autres ? 🕹️
