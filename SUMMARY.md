@@ -24,7 +24,7 @@
   * [🍭 Gagner des sucres d'orge](faq/monnaie/gagner-sucre-dorge.md)
 * [📣 Créer une pub](faq/creation-pub.md)
 * [🏛️ Trouver un donjon](faq/trouver-un-donjon.md)
-* [⭐ Les fragment d'étoiles](faq/fragment-etoile.md)
+* [⭐ Les fragments d'étoiles](faq/fragment-etoile.md)
 * [🧍‍♂️ Le guide de l'ASE](faq/le-ase.md)
 
 ## 🎮 LE GAMEPLAY
@@ -63,6 +63,7 @@
   * [💥 Chasseur de Phénix](le-gameplay/les-classes/chasseur-de-phénix.md)
   * [☠️ Chevalier de la mort](le-gameplay/les-classes/chevalier-de-la-mort.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons.md)
+* [♾️ Le Donjon Infini](le-gameplay/donjon-infini.md)
 * [💵 Le Commerce](le-gameplay/le-commerce.md)
 * [🎲 Lucky Blocks](le-gameplay/lucky-block.md)    
 * [🔱 Le Pass](le-gameplay/pass.md)
