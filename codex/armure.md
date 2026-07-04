@@ -375,7 +375,7 @@ Les <mark style="color:green;">pièces d'armures de Jade</mark> s'obtiennent dan
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures en Chocolat</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse Paque</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire) ou à <mark style="color:green;">l'achat dans la boutique temporaire du `/Paque`</mark> ainsi qu'au [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures en Chocolat</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse de Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques) ou à <mark style="color:green;">l'achat dans la boutique temporaire du `/Paque`</mark> ainsi qu'au [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -442,3 +442,21 @@ Les <mark style="color:green;">pièces d'Armure Tank</mark> s'obtiennent dans le
 | **Aperçue de l'armure 🖼️** | **Statistiques globales 📊** | **Effets✨** |
 | --- | --- | --- |
 | <div><figure><img src="../.gitbook/assets/Codex/Armure/Tank/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+48</strong></p><p>▸ <mark style="color:red;"><strong>🗡️ Force</strong></mark> <strong>+32</strong></p><p>▸ <mark style="color:green;"><strong>🏃‍♂️ Vitesse</strong></mark> <strong>+40</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
+
+### ☀️◦ <mark style="color:orange;">Armure d'Été</mark>
+
+#### 🔹 Son obtention🤔
+
+Les <mark style="color:green;">pièces d'Armure d'Été</mark> s'obtiennent dans la [<mark style="color:orange;">caisse Aquatique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aquatique), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+
+#### 🔹 Son Aperçu 🔍
+
+| **Casque** | **Plastron** | **Pantalon** | **Bottes** |
+| :----: | :----: | :----: | :----: |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Ete/Casque.png" alt=""><figcaption></figcaption></figure></div> | <div><figure><img src="../.gitbook/assets/Codex/Armure/Ete/Plastron.png" alt=""><figcaption></figcaption></figure></div> | <div><figure><img src="../.gitbook/assets/Codex/Armure/Ete/Pantalon.png" alt=""><figcaption></figcaption></figure></div> | <div><figure><img src="../.gitbook/assets/Codex/Armure/Ete/Bottes.png" alt=""><figcaption></figcaption></figure></div> |
+| <p>▸ <mark style="color:orange;"><strong>🥊 Chance de Critique</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p> | <p>▸ <mark style="color:orange;"><strong>🥊 Chance de Critique</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p> | <p>▸ <mark style="color:orange;"><strong>🥊 Chance de Critique</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p> | <p>▸ <mark style="color:orange;"><strong>🥊 Chance de Critique</strong></mark> <strong>+20</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+10</strong></p><p>▸ <mark style="color:orange;"><strong>🛡️ Défense</strong></mark> <strong>+5</strong></p> |
+| <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Respiration III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Affinité Aquatique</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Furtivité Rapide III</strong></mark></p> | <p>▸ <mark style="color:orange;"><strong>Protection IV</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Solidité III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Raccomodage</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Agilité des Âmes III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Agilité Aquatique III</strong></mark></p><p>▸ <mark style="color:orange;"><strong>Chute Amortie IV</strong></mark></p> |
+
+| **Aperçue de l'armure 🖼️** | **Statistiques globales 📊** | **Effets✨** |
+| --- | --- | --- |
+| <div><figure><img src="../.gitbook/assets/Codex/Armure/Ete/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:orange;"><strong>🥊 Chance de Critique</strong></mark> <strong>+80</strong></p><p>▸ <mark style="color:orange;"><strong>💀 Dégâts Critiques</strong></mark> <strong>+40</strong></p><p>▸ <mark style="color:orange;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
