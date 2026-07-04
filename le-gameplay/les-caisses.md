@@ -421,7 +421,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<img src="../.gitbook/assets/Les_Caisses/Paques.png" alt="">
+<img src="../.gitbook/assets/Les_Caisses/Paques2025.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -604,7 +604,7 @@ La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient gr�
 La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">7.14%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-pain-depice) avec <mark style="color:green;">16 fragments de clés Pâques 2026</mark>
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
-<figure><img src="../.gitbook/assets/Les_Caisses/caisse_paques(2026).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Paques2026.png" alt=""><figcaption></figcaption></figure>
 
 | **Récompense**                                                       | **Pourcentage d'obtention** |
 | -------------------------------------------------------------------- | --------------------------- |
@@ -626,6 +626,40 @@ La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient gr�
 | <mark style="color:green;">**Plaque de Chocolat**</mark>                    | **5,56%**                   |
 | <mark style="color:green;">**Spawner Aléatoire**</mark>              | **5,56%**                   |
 | <mark style="color:green;">**Poudre de Chocolat**</mark>                 | **5,56%**                   |
+
+### 🔸 <mark style="color:cyan;">Caisse Aquatique 🌊</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+La <mark style="color:green;">**Clé de la Caisse Aquatique**</mark> s'obtient pour l'instant uniquement en l'achetant via <mark style="color:green;">**le `/boutique`**</mark> au prix de :
+
+* <mark style="color:cyan;">**850 Gemmes 💎**</mark> pour **1 Clé**
+* <mark style="color:cyan;">**4 150 Gemmes 💎**</mark> _(au lieu de 4 250)_ pour **5 Clés**
+* <mark style="color:cyan;">**8 000 Gemmes 💎**</mark> _(au lieu de 8 500)_ pour **10 Clés**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+<figure><img src="../.gitbook/assets/Les_Caisses/Aquatique.png" alt=""><figcaption></figcaption></figure>
+
+| **Récompense**                                                              | **Pourcentage d'obtention** |
+| ----------------------------------------------------------------------------- | --------------------------- |
+| <mark style="color:cyan;">**Casque d'Été**</mark>                          | **5,55%**                   |
+| <mark style="color:cyan;">**Plastron d'Été**</mark>                        | **5,55%**                   |
+| <mark style="color:cyan;">**Pantalon d'Été**</mark>                        | **5,55%**                   |
+| <mark style="color:cyan;">**Bottes d'Été**</mark>                          | **5,55%**                   |
+| <mark style="color:cyan;">**Épée de l'Été**</mark>                         | **5,55%**                   |
+| <mark style="color:cyan;">**Marteau de l'Été**</mark>                      | **5,55%**                   |
+| <mark style="color:cyan;">**Hache de l'Été**</mark>                        | **5,56%**                   |
+| <mark style="color:cyan;">**Pelle de l'Été**</mark>                        | **5,56%**                   |
+| <mark style="color:cyan;">**Canne à Pêche de l'Été**</mark>                | **5,56%**                   |
+| <mark style="color:cyan;">**Bâton de l'Été**</mark>                        | **5,56%**                   |
+| <mark style="color:cyan;">**4 Tickets de Donjon**</mark>                   | **5,56%**                   |
+| <mark style="color:cyan;">**Oeuf de Familier Été**</mark>                  | **5,56%**                   |
+| <mark style="color:cyan;">**Ticket de Revive**</mark>                      | **5,56%**                   |
+| <mark style="color:cyan;">**Carte de Classe Aléatoire Mythique**</mark>    | **5,56%**                   |
+| <mark style="color:cyan;">**Cosmétique Aléatoire**</mark>                  | **5,56%**                   |
+| <mark style="color:cyan;">**3 Parchemins d'Aventure Impossible**</mark>    | **5,56%**                   |
+| <mark style="color:cyan;">**10.000.000💰**</mark>                          | **5,56%**                   |
+| <mark style="color:cyan;">**2 Clés Aquatique**</mark>                      | **5,56%**                   |
 
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 

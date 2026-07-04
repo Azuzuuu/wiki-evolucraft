@@ -48,7 +48,7 @@ Pour entrer dans le donjon infini en ayant des <mark style="color:green;">**tick
 Après avoir <mark style="color:green;">**cliqué**</mark>, vous serez alors <mark style="color:green;">**téléporté**</mark> dans une salle bedrock. Et vous serez vidé temporairement de votre inventaire.
 
 {% hint style="warning" %} ATTENTION ⚠️ :
-Nous vous <mark style="color:green;">**déconseillons**</mark> de bouger votre inventaire durant ce temps d'attente, car si vous déplacez votre inventaire au moment où le serveur videra votre inventaire, l'item sera perdu !
+Nous vous <mark style="color:green; font-weight: bold;">déconseillons</mark> de bouger votre inventaire durant ce temps d'attente, car si vous déplacez votre inventaire au moment où le serveur videra votre inventaire, l'item sera perdu !
 {% endhint %}
 
 ## 💠 Comment se présente ce donjon infini qui est si différent des autres ? 🕹️
@@ -162,7 +162,7 @@ Il pourra donc vous donner des <mark style="color:green;">**améliorations**</ma
   </tr>
 </table>
 
-(Vous êtes limité de base à 1 par donjon, mais vous pouvez augmenter votre nombre de <mark style="color:green;">**tomes**</mark> par donjon avec des <mark style="color:green;">**silvers**</mark>)
+(Vous êtes limité de base à 2 par donjon, mais vous pouvez augmenter votre nombre de <mark style="color:green;">**tomes**</mark> par donjon avec des <mark style="color:green;">**silvers**</mark>)
 
 Lorsque vous n'aimez pas les lots proposés quand vous avez <mark style="color:green;">**monté de niveau**</mark> d'expérience, vous allez la possibilité de :
 #### 🔶 <mark style="color:green;">**Reroll**</mark> :
