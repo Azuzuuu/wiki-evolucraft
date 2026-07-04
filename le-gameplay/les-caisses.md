@@ -421,7 +421,7 @@ La clé de la Caisse Pâques s'obtient grâce à <mark style="color:green;">la c
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 
-<img src="../.gitbook/assets/Les_Caisses/Paques.png" alt="">
+<img src="../.gitbook/assets/Les_Caisses/Paques2025.png" alt="">
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | --------------------------------------------------------------------------- | --------------------------- |
@@ -604,7 +604,7 @@ La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient gr�
 La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient grâce à <mark style="color:green;">la clé aléatoire</mark> avec une petite chance de l'obtenir de <mark style="color:green;">7.14%</mark> ou via le [<mark style="color:green;">**Marché Noir 🧥**</mark>](https://wiki.evolucraft.fr/le-gameplay/marche-noir#cle-pain-depice) avec <mark style="color:green;">16 fragments de clés Pâques 2026</mark>
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
-<figure><img src="../.gitbook/assets/Les_Caisses/caisse_paques(2026).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Paques2026.png" alt=""><figcaption></figcaption></figure>
 
 | **Récompense**                                                       | **Pourcentage d'obtention** |
 | -------------------------------------------------------------------- | --------------------------- |
