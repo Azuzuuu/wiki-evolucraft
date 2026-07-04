@@ -627,39 +627,39 @@ La <mark style="color:green;">**Clé de la Caisse lunaire**</mark> s'obtient gr�
 | <mark style="color:green;">**Spawner Aléatoire**</mark>              | **5,56%**                   |
 | <mark style="color:green;">**Poudre de Chocolat**</mark>                 | **5,56%**                   |
 
-### 🔸 <mark style="color:orange;">Caisse Aquatique 🌊</mark>
+### 🔸 <mark style="color:cyan;">Caisse Aquatique 🌊</mark>
 
 #### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
 
 La <mark style="color:green;">**Clé de la Caisse Aquatique**</mark> s'obtient pour l'instant uniquement en l'achetant via <mark style="color:green;">**le `/boutique`**</mark> au prix de :
 
-* <mark style="color:orange;">**850 Gemmes 💎**</mark> pour **1 Clé**
-* <mark style="color:orange;">**4 150 Gemmes 💎**</mark> _(au lieu de 4 250)_ pour **5 Clés**
-* <mark style="color:orange;">**8 000 Gemmes 💎**</mark> _(au lieu de 8 500)_ pour **10 Clés**
+* <mark style="color:cyan;">**850 Gemmes 💎**</mark> pour **1 Clé**
+* <mark style="color:cyan;">**4 150 Gemmes 💎**</mark> _(au lieu de 4 250)_ pour **5 Clés**
+* <mark style="color:cyan;">**8 000 Gemmes 💎**</mark> _(au lieu de 8 500)_ pour **10 Clés**
 
 #### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
 <figure><img src="../.gitbook/assets/Les_Caisses/Aquatique.png" alt=""><figcaption></figcaption></figure>
 
 | **Récompense**                                                              | **Pourcentage d'obtention** |
 | ----------------------------------------------------------------------------- | --------------------------- |
-| <mark style="color:orange;">**Casque d'Été**</mark>                          | **5,55%**                   |
-| <mark style="color:orange;">**Plastron d'Été**</mark>                        | **5,55%**                   |
-| <mark style="color:orange;">**Pantalon d'Été**</mark>                        | **5,55%**                   |
-| <mark style="color:orange;">**Bottes d'Été**</mark>                          | **5,55%**                   |
-| <mark style="color:orange;">**Épée de l'Été**</mark>                         | **5,55%**                   |
-| <mark style="color:orange;">**Marteau de l'Été**</mark>                      | **5,55%**                   |
-| <mark style="color:orange;">**Hache de l'Été**</mark>                        | **5,56%**                   |
-| <mark style="color:orange;">**Pelle de l'Été**</mark>                        | **5,56%**                   |
-| <mark style="color:orange;">**Canne à Pêche de l'Été**</mark>                | **5,56%**                   |
-| <mark style="color:orange;">**Bâton de l'Été**</mark>                        | **5,56%**                   |
-| <mark style="color:orange;">**4 Tickets de Donjon**</mark>                   | **5,56%**                   |
-| <mark style="color:orange;">**Oeuf de Familier Été**</mark>                  | **5,56%**                   |
-| <mark style="color:orange;">**Ticket de Revive**</mark>                      | **5,56%**                   |
-| <mark style="color:orange;">**Carte de Classe Aléatoire Mythique**</mark>    | **5,56%**                   |
-| <mark style="color:orange;">**Cosmétique Aléatoire**</mark>                  | **5,56%**                   |
-| <mark style="color:orange;">**3 Parchemins d'Aventure Impossible**</mark>    | **5,56%**                   |
-| <mark style="color:orange;">**10.000.000💰**</mark>                          | **5,56%**                   |
-| <mark style="color:orange;">**2 Clés Aquatique**</mark>                      | **5,56%**                   |
+| <mark style="color:cyan;">**Casque d'Été**</mark>                          | **5,55%**                   |
+| <mark style="color:cyan;">**Plastron d'Été**</mark>                        | **5,55%**                   |
+| <mark style="color:cyan;">**Pantalon d'Été**</mark>                        | **5,55%**                   |
+| <mark style="color:cyan;">**Bottes d'Été**</mark>                          | **5,55%**                   |
+| <mark style="color:cyan;">**Épée de l'Été**</mark>                         | **5,55%**                   |
+| <mark style="color:cyan;">**Marteau de l'Été**</mark>                      | **5,55%**                   |
+| <mark style="color:cyan;">**Hache de l'Été**</mark>                        | **5,56%**                   |
+| <mark style="color:cyan;">**Pelle de l'Été**</mark>                        | **5,56%**                   |
+| <mark style="color:cyan;">**Canne à Pêche de l'Été**</mark>                | **5,56%**                   |
+| <mark style="color:cyan;">**Bâton de l'Été**</mark>                        | **5,56%**                   |
+| <mark style="color:cyan;">**4 Tickets de Donjon**</mark>                   | **5,56%**                   |
+| <mark style="color:cyan;">**Oeuf de Familier Été**</mark>                  | **5,56%**                   |
+| <mark style="color:cyan;">**Ticket de Revive**</mark>                      | **5,56%**                   |
+| <mark style="color:cyan;">**Carte de Classe Aléatoire Mythique**</mark>    | **5,56%**                   |
+| <mark style="color:cyan;">**Cosmétique Aléatoire**</mark>                  | **5,56%**                   |
+| <mark style="color:cyan;">**3 Parchemins d'Aventure Impossible**</mark>    | **5,56%**                   |
+| <mark style="color:cyan;">**10.000.000💰**</mark>                          | **5,56%**                   |
+| <mark style="color:cyan;">**2 Clés Aquatique**</mark>                      | **5,56%**                   |
 
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
