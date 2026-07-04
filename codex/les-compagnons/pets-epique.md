@@ -445,5 +445,15 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 10.000</strong></mark> 💲/h</p>
    </td>
    <td>* Pack Guerrier / Paladin / Chevalier des Glaces / Barbare / Moine 🛡️ (Événement temporaire)</td>
+   <td><mark style="color:blue;"><strong>Sylphe</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Sylphe.png" alt=""></figure></td>
+   <td>
+     <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark>+1</p>
+     <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +3</p>
+     <p><mark style="color:blue;"><strong>Niv. 10</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +5</p>
+     <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +9</p>
+     <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>🤺 Dextérité</strong></mark> +12</p>  
+   </td>
+   <td>* Œuf de famillier (Caisse summer 2026🏖️)</td>
   </tr>
 </table>
