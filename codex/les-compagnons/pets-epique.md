@@ -445,6 +445,8 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>+ 10.000</strong></mark> 💲/h</p>
    </td>
    <td>* Pack Guerrier / Paladin / Chevalier des Glaces / Barbare / Moine 🛡️ (Événement temporaire)</td>
+   </tr>
+   <tr>
    <td><mark style="color:blue;"><strong>Sylphe</strong></mark></td>
    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Sylphe.png" alt=""></figure></td>
    <td>
