@@ -233,7 +233,7 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
       <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+ 5.000</strong></mark> 💲/h</p>
       <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +4</p>
       <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>🏃‍♂️ Vitesse</strong></mark> +2</p>
-      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> d'EXP <mark style="color:yellow;"><strong>ForgeMage 📖</strong></mark></p> 
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>Célérité 1</strong></mark></p>
     </td>
     <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
   </tr>
