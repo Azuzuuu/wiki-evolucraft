@@ -308,7 +308,7 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
     <td><mark style="color:yellow;">Rare</mark></td>
     <td>
      <p><mark style="color:red;">🗡️ Force +15</mark></p>
-     <p><mark style="color:orange;">💀 Dégât Critique +8</mark></p>
+     <p><mark style="color:orange;">❤️ Vie +35</mark></p>
     </td>
     <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
     <td>
