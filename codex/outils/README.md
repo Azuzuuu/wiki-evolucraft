@@ -76,7 +76,7 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></td>
   </tr>
   <tr>
-   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumPaques.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Plaque de chocolat</mark></strong></p></figcaption></figure></td>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/Adamantium_Paques.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Plaque de chocolat</mark></strong></p></figcaption></figure></td>
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques-2026"><mark style="color:yellow;">Caisse Pâques 2026 🥚</mark></a></td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark sty
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></td>
   </tr>
   <tr>
-   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/PoudreChocolat.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Poudre en Chocolat</mark></strong></p></figcaption></figure></td>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/Poudre_Chocolat.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Poudre en Chocolat</mark></strong></p></figcaption></figure></td>
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques-2026"><mark style="color:yellow;">Caisse Pâques 2026 🥚</mark></a></td>
   </tr>
 </table>
