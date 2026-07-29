@@ -75,17 +75,35 @@ Depuis la mise à jour <mark style="color:green;">**Summer 2025**</mark>, vous p
    <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumNoel.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Adamantium de Noël</mark></strong></p></figcaption></figure></td>
    <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice"><mark style="color:red;">Caisse Pain d'épice 🍪</mark></a></td>
   </tr>
+  <tr>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/AdamantiumPaques.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Plaque de chocolat</mark></strong></p></figcaption></figure></td>
+   <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques-2026"><mark style="color:yellow;">Caisse Pâques 2026 🥚</mark></a></td>
+  </tr>
 </table>
 
 L’<mark style="color:green;">**Adamantium**</mark> confère à votre <mark style="color:green;">**outil**</mark> sur lequel il est appliqué la propriété d’être <mark style="color:green;">**incassable**</mark>. Vous n’aurez plus jamais à vous préoccuper de la <mark style="color:green;">**durabilité**</mark> de votre équipement.
 
-### ✨ ◦ <mark style="color:green;">Poussière d'Étoile</mark>
-<figure align="left"><img src="../../.gitbook/assets/Codex/Outils/PoussiereEtoile.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Poussière d'Étoile</mark></strong></p></figcaption></figure>
+### ✨ ◦ <mark style="color:green;">Poudre ou poussière magique</mark>
 
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><strong><ins>Nom</ins> 🏷️</strong></td>
+    <td align="center"><strong><ins>Obtention</ins> 🎁</strong></td>
+  </tr>
+  <tr>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/PoussiereEtoile.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Poussière d'Étoile</mark></strong></p></figcaption></figure></td>
+   <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer"><mark style="color:blue;">Caisse Summer 🏖️</mark></a></td>
+  </tr>
+  <tr>
+   <td><figure align="left"><img src="../../.gitbook/assets/Codex/Outils/PoudreChocolat.png" alt=""></figure><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Poudre en Chocolat</mark></strong></p></figcaption></figure></td>
+   <td><a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques-2026"><mark style="color:yellow;">Caisse Pâques 2026 🥚</mark></a></td>
+  </tr>
+</table>
 La <mark style="color:green;">**Poussière d'Étoile**</mark> vous procurera des [<mark style="color:green;">**effets de Minecraft Vanilla**</mark>](https://fr.minecraft.wiki/w/Effet) et sont exclusivement <mark style="color:green;">**positifs**</mark>. Vous n’avez donc aucune crainte d'avoir comme <mark style="color:green;">**poison**</mark> sur votre <mark style="color:green;">**pioche évolutive**</mark> 😌.
 
-> [!WARNING]
-> L'action d'application est irréversible. C'est-à-dire qu'une fois appliqué, vous ne pouvez plus modifier son effet ni le retirer.
+{% hint style="warning" %}
+⚠️ Attention ! L'action d'application est irréversible. C'est-à-dire qu'une fois appliqué, vous ne pouvez plus modifier son effet ni le retirer !
+{% endhint %}
 
 
 
