@@ -371,11 +371,11 @@ Les <mark style="color:green;">pièces d'armures de Jade</mark> s'obtiennent dan
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <div><figure><img src="../.gitbook/assets/Codex/Armure/Jade/Complet.png" alt=""><figcaption></figcaption></figure></div> | <p>▸ <mark style="color:red;"><strong>❤️ Vie</strong></mark> <strong>+80</strong></p><p>▸ <mark style="color:blue;"><strong>🛡️ Défense</strong></mark> <strong>+20</strong></p> | _<strong><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</strong>_ |
 
-### 🎑◦ <mark style="color:green;">Armure en Chocolat</mark>
+### 🍫◦ <mark style="color:yellow;">Armure en Chocolat</mark>
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'armures en Chocolat</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse de Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques) ou à <mark style="color:green;">l'achat dans la boutique temporaire du `/Paque`</mark> ainsi qu'au [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'armures en Chocolat</mark> s'obtiennent dans la [<mark style="color:yellow;">caisse de Pâques</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-de-paques) ou à <mark style="color:green;">l'achat dans la boutique du Monde Pâques</mark> ainsi qu'au [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 
@@ -447,7 +447,7 @@ Les <mark style="color:green;">pièces d'Armure Tank</mark> s'obtiennent dans le
 
 #### 🔹 Son obtention🤔
 
-Les <mark style="color:green;">pièces d'Armure d'Été</mark> s'obtiennent dans la [<mark style="color:cyan;">caisse Aquatique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aquatique), via l'Armure aléatoire obtenable dans le [<mark style="color:yellow;">Lucky Block Gold</mark>](https://wiki.evolucraft.fr/le-gameplay/lucky-block#lucky-block-gold) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
+Les <mark style="color:green;">pièces d'Armure d'Été</mark> s'obtiennent dans la [<mark style="color:cyan;">caisse Aquatique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-aquatique) ou encore à <mark style="color:green;">l'achat</mark> dans [<mark style="color:green;">l'hôtel de vente</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hotel-des-ventes).
 
 #### 🔹 Son Aperçu 🔍
 

@@ -126,7 +126,7 @@ Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la c
 - <mark style="color:red;">**1 seau d’eau**</mark>
 - <mark style="color:red;">**1 seau de lave**</mark>
 
-<img src="../.gitbook/assets/Codex/Kits/legende.png" alt="" style="text-align: left;">
+<img src="../.gitbook/assets/Codex/Kits/legende_.png" alt="" style="text-align: left;">
 
 {% hint style="warning" %}
 **Ce kit n'est obtenable qu'en ayant acheté un <mark style="color:red;">Grade Légende</mark>**.

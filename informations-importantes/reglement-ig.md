@@ -130,7 +130,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 * Toute tentative d'usebug, sortie de map ou autres lors des donjons est interdite.
 * Il est interdit de rester AFK dans les donjons dans le seul but de récupérer les récompenses sans participer à tuer des mobs.
 * Quitter un donjon volontairement, sans raison valable, est sanctionnable.
-* Rester dans une safe zone pour tuer des mobs plus facilement et sans être tué est interdit peu importe le donjon.
+* Rester dans une safe zone pour tuer des mobs plus facilement et/ou sans être tué est interdit peu importe le donjon.
 * Les donjons qui n'ont pas pu être terminés en raison d'un redémarrage du serveur (comme le redémarrage à 5H du matin) ne sont pas remboursables.
 
 ### <mark style="color:green;">Article D : Les Farms et machine à redstone</mark>
@@ -153,9 +153,10 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 #### <mark style="color:green;">Sont autorisés</mark> :
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
-  * Optifine, Minimap
+  * Sodium, Optifine
+  * Minimap
   * ReplayMod, Flashback (Uniquement pour Record).
-  * Badlion / Lunar / Feather.
+  * Badlion / Lunar / Feather / Modrinth
     * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
   * Schematica / Litematica (Sans activer l'option printer ou easyplace).
   * Toggle Sneak / Sprint.
