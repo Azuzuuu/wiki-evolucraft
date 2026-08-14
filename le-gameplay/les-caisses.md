@@ -661,6 +661,40 @@ La <mark style="color:green;">**Clé de la Caisse Aquatique**</mark> s'obtient p
 | <mark style="color:cyan;">**10.000.000💰**</mark>                          | **5,56%**                   |
 | <mark style="color:cyan;">**2 Clés Aquatique**</mark>                      | **5,56%**                   |
 
+### 🔸 <mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark>
+
+#### 🔹 <mark style="color:blue;">Son obtention 🤔</mark>
+
+La <mark style="color:green;">**Clé de la Caisse Élémentaire**</mark> s'obtient pour l'instant uniquement en l'achetant via <mark style="color:green;">**le `/boutique`**</mark> au prix de :
+
+* <mark style="color:orange;">**850 Gemmes 💎**</mark> pour **1 Clé**
+* <mark style="color:orange;">**4 150 Gemmes 💎**</mark> _(au lieu de 4 250)_ pour **5 Clés**
+* <mark style="color:orange;">**8 000 Gemmes 💎**</mark> _(au lieu de 8 500)_ pour **10 Clés**
+
+#### 🔹 <mark style="color:blue;">Ses récompenses 🎰</mark>
+<figure><img src="../.gitbook/assets/Les_Caisses/Elementaire.png" alt=""><figcaption></figcaption></figure>
+
+| **Récompense**                                                              | **Pourcentage d'obtention** |
+| ----------------------------------------------------------------------------- | --------------------------- |
+| <mark style="color:orange;">**Casque Élémental**</mark>                       | **5,55%**                   |
+| <mark style="color:orange;">**Plastron Élémental**</mark>                     | **5,55%**                   |
+| <mark style="color:orange;">**Pantalon Élémental**</mark>                     | **5,55%**                   |
+| <mark style="color:orange;">**Bottes Élémentales**</mark>                     | **5,55%**                   |
+| <mark style="color:orange;">**Arme de Classe Aléatoire**</mark>               | **5,55%**                   |
+| <mark style="color:orange;">**4 Tickets de Donjon Élémental**</mark>          | **5,55%**                   |
+| <mark style="color:orange;">**Oeuf de Familier Élémental**</mark> _(Pytyx 40%, Zephyrn 35%, Aquarok 25%)_ | **5,55%**                   |
+| <mark style="color:orange;">**Carte de Classe Aléatoire Mythique**</mark>     | **5,55%**                   |
+| <mark style="color:orange;">**Carte de Classe Avatar**</mark>                 | **5,55%**                   |
+| <mark style="color:orange;">**Adamantium**</mark>                             | **5,55%**                   |
+| <mark style="color:orange;">**Cosmétique Aléatoire**</mark>                   | **5,55%**                   |
+| <mark style="color:orange;">**3 Parchemins d'Aventure Impossible**</mark>     | **5,55%**                   |
+| <mark style="color:orange;">**11.000.000💰**</mark>                           | **5,55%**                   |
+| <mark style="color:orange;">**2 Clés Élémentales**</mark>                     | **5,55%**                   |
+| <mark style="color:orange;">**Poussière d'Étoile Élémentale**</mark>          | **5,55%**                   |
+| <mark style="color:orange;">**Spawner Aléatoire**</mark> _(Golem / Blaze / Zombie)_ | **5,55%**                   |
+| <mark style="color:orange;">**4 Bonbons au Raisin**</mark>                    | **5,55%**                   |
+| <mark style="color:orange;">**Pierre de Téléportation**</mark>                | **5,55%**                   |
+
 ### 🔸 <mark style="color:green;">Et d'autres nouvelles caisses sont à prévoir...</mark>
 
 **Et voilà, vous connaissez désormais toutes les&#x20;**<mark style="color:green;">**caisses**</mark>**&#x20;du serveur ! À vous de jouer avec les dernières ! 😎** _Nous rappelons que jouer à la loterie comporte des risques d’addiction, faites-y attention ! 🤗_
