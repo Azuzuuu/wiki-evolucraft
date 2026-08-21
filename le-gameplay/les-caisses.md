@@ -153,7 +153,7 @@ La <mark style="color:green;">clé</mark> de la Caisse Rubis s'obtient en l'ache
 | <mark style="color:red;">**3 Parchemins d'Aventure Expert**</mark>                                                                       | **5,82%**                   |
 | <mark style="color:red;">**3 Bonbons au Raisin**</mark>                                                                                  | **5,82%**                   |
 | <mark style="color:red;">**2 Clés Rubis**</mark>                                                                                         | **5,82%**                   |
-| [<mark style="color:red;">**Grade Héros ⚜️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#heros) _(Sur la version version)_ | **1%**                      |
+| [<mark style="color:red;">**Grade Héros ⚜️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#heros) _(Sur cette version)_ | **1%**                      |
 
 ### 🔸 <mark style="color:yellow;">Caisse Jackpot 🎰</mark>
 
@@ -176,7 +176,7 @@ Pour savoir **<mark style="color:green;"><strong>comment obtenir des jetons</str
 | <mark style="color:yellow;">**Plastron Légendaire**</mark>                                          | **11,1%**                   |
 | <mark style="color:yellow;">**Pantalon Légendaire**</mark>                                          | **11,1%**                   |
 | <mark style="color:yellow;">**Bottes Légendaire**</mark>                                            | **11,1%**                   |
-| <mark style="color:yellow;">**Armes de classe Aléatoire**</mark>                                    | **11,1%**                   |
+| <mark style="color:yellow;">**Armes de classe Aléatoire**</mark> _(20% de chance d'avoir la version Shiny)_          | **11,1%**                   |
 | <mark style="color:yellow;">**Carte de classe Légendaire**</mark>                                   | **11,1%**                   |
 | <mark style="color:yellow;">**Oeuf de Familier Légendaire**</mark> _(20% de chance d'avoir la version Shiny)_ | **11,1%**                   |
 | <mark style="color:yellow;">**Spawner Aléatoire**</mark>                                            | **11,1%**                   |

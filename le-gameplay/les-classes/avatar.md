@@ -82,7 +82,7 @@ N'importe quelle classe peut utiliser n'importe quelle arme élémentaire — ce
      <p><mark style="color:red;">❤️ Vie +135</mark></p>
      <p><mark style="color:blue;">🛡️ Défense +10</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:orange;">Bonus Dégâts 💢</mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">élémentaux (Avatar)</mark></td>
     <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ N'importe quelle classe peut utiliser n'importe quelle arme élémentaire — ce
      <p><mark style="color:orange;">💀 Dégâts Critiques +31</mark></p>
      <p><mark style="color:red;">🥊 Chance de Critique +16</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:orange;">Bonus Dégâts 💢</mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">élémentaux (Avatar)</mark></td>
     <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ N'importe quelle classe peut utiliser n'importe quelle arme élémentaire — ce
      <p><mark style="color:yellow;">🧪 Mana +80</mark></p>
      <p><mark style="color:blue;">✨ Régénération de Mana +1</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:orange;">Bonus Dégâts 💢</mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">élémentaux (Avatar)</mark></td>
     <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ N'importe quelle classe peut utiliser n'importe quelle arme élémentaire — ce
      <p><mark style="color:red;">❤️ Vie +75</mark></p>
      <p><mark style="color:orange;">💀 Dégâts Critiques +19</mark></p>
     </td>
-    <td><mark style="color:green;">Aucun Effet</mark> Supplémentaire ❌</td>
+    <td><mark style="color:orange;">Bonus Dégâts 💢</mark> ▸ <mark style="color:orange;">+5% de dégâts</mark> dans les donjons <mark style="color:orange;">élémentaux (Avatar)</mark></td>
     <td>▸ <mark style="color:orange;">Arme de Classe Aléatoire</mark> (<a href="https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-elementaire"><mark style="color:orange;">Caisse Élémentaire 🔥❄️🪨</mark></a>)</td>
   </tr>
 </table>
