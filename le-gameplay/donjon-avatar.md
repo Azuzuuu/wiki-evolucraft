@@ -14,7 +14,15 @@ Chaque jour, vous recevez <mark style="color:orange;">**1 Ticket Donjon Avatar**
 
 ### 🔷 Ouverture du menu 🏛️
 
-L'accès au donjon Avatar se fait depuis le même menu de <mark style="color:orange;">**mise à jour**</mark> que le Donjon Infini, via un <mark style="color:orange;">**sablier rouge**</mark> _(le Donjon Infini utilise un sablier jaune/or)_. En <mark style="color:orange;">**survolant**</mark> le sablier rouge, un aperçu <mark style="color:orange;">**"Cycle de l'Avatar"**</mark> s'affiche, indiquant votre nombre de <mark style="color:orange;">**tickets**</mark>. En <mark style="color:orange;">**cliquant**</mark> dessus, vous êtes directement amené au menu de l'équipe, avec les membres de la party, l'épée d'entraînement et la nether star pour lancer la partie.
+L'accès au donjon Avatar se fait depuis le même menu de <mark style="color:orange;">**mise à jour**</mark> que le Donjon Infini, via un <mark style="color:orange;">**sablier rouge**</mark> _(le Donjon Infini utilise un sablier jaune/or)_.
+
+<figure><img src="../.gitbook/assets/Les_Donjons/Avatar/AccesMenu.png" alt=""><figcaption>Aperçu de l'emplacement du <mark style="color:orange;">sablier rouge</mark> dans le menu de mise à jour</figcaption></figure>
+
+En <mark style="color:orange;">**survolant**</mark> le sablier rouge, un aperçu <mark style="color:orange;">**"Cycle de l'Avatar"**</mark> s'affiche, indiquant votre nombre de <mark style="color:orange;">**tickets**</mark>.
+
+<figure><img src="../.gitbook/assets/Les_Donjons/Avatar/TicketsRestants.png" alt=""><figcaption>Aperçu du <mark style="color:orange;">nombre de tickets</mark> en votre possession au survol</figcaption></figure>
+
+En <mark style="color:orange;">**cliquant**</mark> dessus, vous êtes directement amené au menu de l'équipe, avec les membres de la party, l'épée d'entraînement et la nether star pour lancer la partie.
 
 ### 🔷 Jouer à plusieurs 👥
 
@@ -24,6 +32,8 @@ Contrairement au Donjon Infini, le donjon Avatar se joue jusqu'à <mark style="c
 * Accepter une invitation : <mark style="color:orange;">**`/atlasbonks party accept <joueur qui l'a invité>`**</mark>
 * Se mettre prêt : <mark style="color:orange;">**`/atlasbonks party ready`**</mark>
 * Une fois <mark style="color:orange;">**tous les membres prêts**</mark>, l'hôte de la party lance la partie en cliquant sur la <mark style="color:orange;">**nether star**</mark> au centre de l'écran.
+
+<figure><img src="../.gitbook/assets/Les_Donjons/Avatar/MenuEquipe.png" alt=""><figcaption>Aperçu du menu <mark style="color:orange;">"Le Cycle de l'Avatar — Équipe"</mark></figcaption></figure>
 
 {% hint style="warning" %}
 **⚠️ ATTENTION :** Plus vous êtes nombreux dans la party, plus le donjon est <mark style="color:orange;">**difficile**</mark> : les mobs sont plus <mark style="color:orange;">**résistants**</mark> et infligent plus de <mark style="color:orange;">**dégâts**</mark> que si vous êtes seul.
@@ -35,6 +45,8 @@ Dans le menu de la party, un clic sur l'épée permet de basculer entre deux mod
 
 * <mark style="color:orange;">**Mode Entraînement**</mark> : gratuit, ne consomme aucun ticket, mais <mark style="color:orange;">**aucune récompense**</mark>.
 * <mark style="color:orange;">**Mode Normal**</mark> : consomme <mark style="color:orange;">**1 ticket par joueur**</mark>, avec récompenses actives.
+
+<figure><img src="../.gitbook/assets/Les_Donjons/Avatar/ChoixMode.png" alt=""><figcaption>Aperçu du choix entre <mark style="color:orange;">Mode Entraînement</mark> et <mark style="color:orange;">Mode Normal</mark></figcaption></figure>
 
 ## 💠 Comment se déroule ce donjon ? 🕹️
 

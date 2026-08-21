@@ -283,7 +283,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
   <tr>
     <td><mark style="color:purple;"><strong>Aquarok</strong></mark></td>
     <td>
-      <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/aquarok.png" alt=""></figure></p>
+      <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Aquarok.png" alt=""></figure></p>
     </td>
     <td>
       <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Terrestre) / <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +30</p>

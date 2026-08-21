@@ -448,7 +448,7 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Zephyrn</strong></mark></td>
-   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/zephyrn.png" alt=""></figure></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Epique/Zephyrn.png" alt=""></figure></td>
    <td>
      <p><mark style="color:blue;"><strong>Niv. 1</strong></mark> → <mark style="color:blue;"><strong>Monture</strong></mark> (Aérienne) / <mark style="color:blue;"><strong>🏃‍♂️ Vitesse</strong></mark> +8</p>
      <p><mark style="color:blue;"><strong>Niv. 5</strong></mark> → <mark style="color:blue;"><strong>+ 8.000</strong></mark> 💲/h</p>
