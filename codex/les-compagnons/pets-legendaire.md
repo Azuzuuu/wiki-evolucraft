@@ -280,4 +280,20 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p>* Pack Duck (Offres Limitées Anniversaire 🎂)</p>
     </td>
   </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>Aquarok</strong></mark></td>
+    <td>
+      <p><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Aquarok.png" alt=""></figure></p>
+    </td>
+    <td>
+      <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Terrestre) / <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +30</p>
+      <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>✨ Régénération de Mana</strong></mark> +3</p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> → <mark style="color:purple;"><strong>+10%</strong></mark> d'Argent <mark style="color:purple;"><strong>Pêcheur 🎣</strong></mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 12.000</strong> 💲/h</mark></p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>💕 Régénération</strong></mark> +6</p>
+    </td>
+    <td>
+      <p>* Œuf de famillier (Caisse Élémentaire ☄️)</p>
+    </td>
+  </tr>
 </table>

@@ -284,7 +284,7 @@ Les <mark style="color:green;">outils évolutifs</mark> s'obtiennent soit dans l
      <p><figure><img src="../../.gitbook/assets/Codex/Outils/Evolutif/Hache/Hache5.png" alt=""></figure></p>
    </td>
    <td>
-     <p>▸ <mark style="color:yellow;"><strong>Efficacité VII</strong></mark></p>
+     <p>▸ <mark style="color:yellow;"><strong>Efficacité X</strong></mark></p>
      <p>▸ <mark style="color:yellow;"><strong>Fortune V</strong></mark></p>
    </td>
    <td align="center">
