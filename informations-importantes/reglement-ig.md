@@ -204,7 +204,7 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci est passible de sanctions, même en étant physiquement présent devant l’écran.
 {% endhint %}
 
-#### \* <mark style="color:green;">Disband et transfert de lead de ville :</mark>
+#### * <mark style="color:green;">Disband et transfert de lead de ville :</mark>
 
 * Lorsque vous prévoyez une absence prolongée de plus d’un mois, merci de nous en informer en plaçant une pancarte au spawn de votre ville et en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
 * Au bout d’un mois d’inactivité de tous les joueurs d’une ville et/ou sous certaines conditions, nous nous réservons le droit d’unclaim la ville. Un joueur proche de cette ville peut également demander l’unclaim en créant un ticket dans le channel [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532).
@@ -214,7 +214,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
   * **Seul un membre de la ville peut faire la demande pour récupérer la ville**.
   * **Ne pas être encore maire d'une autre ville**.
 
-#### \* <mark style="color:green;">Les Coffres Privatisés :</mark>
+#### * <mark style="color:green;">Les Coffres Privatisés :</mark>
 
 * Lorsque vous trouvez un coffre privatisé par un joueur, vous ne pouvez pas en récupérer le contenu, peu importe son inactivité.
 * Lorsque vous souhaitez supprimer un coffre privatisé qui n'est pas le vôtre, nous vous invitons à [**`#🎫・créer un ticket`**](https://discord.com/channels/699670538737418343/709491272385298532) en indiquant les coordonnées de ce dernier.
