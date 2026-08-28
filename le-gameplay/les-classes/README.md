@@ -22,7 +22,7 @@ Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:g
 
 ## <mark style="color:green;">💠 Quelles sont les classes disponibles sur le serveur ? 🧐</mark>
 
-Sur le serveur Évolucraft, il existe <mark style="color:green;">**22 classes**</mark> distinctes avec <mark style="color:green;">3 types de gameplay</mark> disponibles (<mark style="color:green;">Tank</mark>, <mark style="color:green;">Soutien</mark> et <mark style="color:green;">DPS</mark>) :
+Sur le serveur Évolucraft, il existe <mark style="color:green;">**23 classes**</mark> distinctes avec <mark style="color:green;">3 types de gameplay</mark> disponibles (<mark style="color:green;">Tank</mark>, <mark style="color:green;">Soutien</mark> et <mark style="color:green;">DPS</mark>) :
 
 ### 🟩 <mark style="color:green;">Classes Communes</mark>
 
@@ -59,6 +59,9 @@ Sur le serveur Évolucraft, il existe <mark style="color:green;">**22 classes**<
 
 ### 🟥 <mark style="color:red;">Classe Mythique</mark>
 * [<mark style="color:red;">**Chevalier de la mort ☠️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-de-la-mort) : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur. _(Tanks)_
+
+### 🟠 <mark style="color:orange;">Classe Élémentaire</mark>
+* [<mark style="color:orange;">**Avatar ☄️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/avatar) : Maîtrise le feu, la glace et la terre, changeant d'élément à la volée pour adapter son combo à chaque situation. _(DPS)_
 
 ## <mark style="color:green;">💠 Que signifient les avantages statistiques ? 👨‍🔬</mark>
 
