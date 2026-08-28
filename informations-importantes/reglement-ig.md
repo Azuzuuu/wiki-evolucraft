@@ -16,17 +16,17 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 ### <mark style="color:green;">Article A : Votre compte</mark>
 
 * Vous êtes entièrement responsable de votre compte Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une sanction adéquate sera mise en place.
-* Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
-* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une ville, une chaîne youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
+* Les pseudonymes (racistes, insultants, politiques, homophobes, provocateurs, ...) et les skins inappropriés (politiques, nudité…) ne sont pas acceptés. Ces règles s'appliquent également à vos items et familiers renommés.
+* Votre surnom (disponible avec le grade Légende) doit également respecter ces règles. Il est interdit d'utiliser ce surnom pour faire de la publicité (pour un PW, une ville, une chaîne YouTube, etc.), pour usurper l'identité d'un autre joueur, d'un membre ou d'un rôle du staff, ou encore d'une personne connue. De plus, il doit être écrit en alphabet latin, être lisible et compréhensible par le staff.
 * Nous ne prenons pas en charge les transferts de compte.
 * Toute vente, achat de comptes ou de stuff avec autre chose que de l'argent IG est interdite.
 
 ### <mark style="color:green;">Article B : Le Discord</mark>
 
-* Evolucraft a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
-* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme.
-* Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
+* Evolucraft a pour moyen de communication principal son serveur [Discord](https://discord.com/invite/hr6MCnbwqE). L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
 * **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
+* Pour tout problème, toute question ou suggestion, rapport de bugs ou encore de contestation de sanction, nous vous invitons à vous rendre sur cette plateforme.
+* Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
 
 ## <mark style="color:green;">Partie II : Le Chat</mark>
 
@@ -74,7 +74,7 @@ Cependant, vous pouvez activer [l'option du message automatique](https://wiki.ev
 ### <mark style="color:green;">Article A : Interactions entre joueurs</mark>
 
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
-* Il est interdit de dévoiler dans le chat public les informations liées aux quêtes (position de NPC, réponse à une énigme, etc).
+* Il est interdit de divulguer dans le chat public ou via une téléportation entre joueurs les informations concernant les PNJ du spawn (Marché Noir ou Téléporteur au Monde Pâques).
 * Tout contournement d'achat unique sur la boutique est interdit (ex: donner 500 gemmes à son ami pour qu'il achète un item unique en boutique et le récupérer).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
   * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.
@@ -101,7 +101,6 @@ Cette liste n'est pas exhaustive.
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * La création de casino est interdite.
-* Changer sa touche d'action pour réaliser une action autre que celle configurée par défaut est interdit.
 * Certains items sont interdit à la vente s'ils remplissent au moins une de ces conditions, même issus de shulkers vendues :
   * Vente de cosmétiques (issue d'un usebug)
   * Items renommés (nous tolérons les boites de shulkers renommées à condition que la description corresponde à son contenu)
@@ -109,6 +108,7 @@ Cette liste n'est pas exhaustive.
   * Têtes ressemblant à des blocs vanilla, des têtes de joueurs
   * Items exclusifs désenchantés
   * Items obsolètes (fragment d'étoiles de métiers, items non réparables n'ayant plus de durabilité, pack d'arme ou parchemins expirés aux moments de la vente, etc.)
+  * Pinces d'oeuf du monde pâques
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’utiliser ou exploiter un bug ou une machine pour augmenter votre métier et/ou pass.
 
 {% hint style="warning" %}
@@ -125,13 +125,18 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 
   * En cas de départ volontaire d’une ville, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs. Si un joueur est banni de sa ville par le maire, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement.
 
-### <mark style="color:green;">Article C : Les donjons</mark>
+### <mark style="color:green;">Article C : Les donjons classiques et infinis</mark>
 
 * Toute tentative d'usebug, sortie de map ou autres lors des donjons est interdite.
-* Il est interdit de rester AFK dans les donjons dans le seul but de récupérer les récompenses sans participer à tuer des mobs.
+* Il est interdit de rester AFK dans les donjons dans le seul but de récupérer les récompenses et/ou l'xp classe sans participer à tuer des mobs.
 * Quitter un donjon volontairement, sans raison valable, est sanctionnable.
 * Rester dans une safe zone pour tuer des mobs plus facilement et/ou sans être tué est interdit peu importe le donjon.
 * Les donjons qui n'ont pas pu être terminés en raison d'un redémarrage du serveur (comme le redémarrage à 5H du matin) ne sont pas remboursables.
+
+{% hint style="warning" %}
+Suite aux bugs récents concernant les récompenses dans les donjons infinis, les demandes de remboursement pour des récompenses non reçues peuvent être remboursables seulement par des preuves vidéo ET des logs de chat.
+À défaut de preuves, le remboursement sera refusé.
+{% endhint %}
 
 ### <mark style="color:green;">Article D : Les Farms et machine à redstone</mark>
 
@@ -221,6 +226,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
   * De même, en avoir connaissance et ne pas partager l'information est tout autant sanctionnable.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
+* Il est interdit de maintenir le clic de la souris lors du rechargement du pack (F3+T).
 * Le poser-casser afin d'XP les jobs, farmium, monter ses items évolutifs ou pour tout autre usage est interdit, sauf pour réaliser les parchemins.
   * Par exemple : il est interdit de poser une bûche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
   * A contrario : il est autorisé de poser des minerais et de les récupérer avec fortune (sans utiliser cela pour le pass et pour les jobs).
