@@ -324,7 +324,7 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 
 <figure><img src="../.gitbook/assets/Marche-Noir/Lunaire/Armes.png" alt=""><figcaption><strong>Menu du  <mark style="color:green;">marché noir du Nouvel An Lunaire</mark></strong></figcaption></figure>
 
-### 🔸 <mark style="color:yellow;">Pâques 2026 🥚</mark>
+### 🔸 <mark style="color:yellow;">Pâques 2026 🐰</mark>
 
 Ces items sont achetables avec des **<mark style="color:green;">Œufs en Chocolat</mark>**, qui sont obtenables dans la **<mark style="color:green;">boutique dans le monde pâques**</mark> via un échange d'Œufs en Chocolat obtenable dans l'[<mark style="color:green;"><strong>Incubateur</strong></mark>](https://wiki.evolucraft.fr/le-gameplay/mondes#lincubateur) également dans le monde pâque.
 
@@ -390,42 +390,42 @@ Ces <mark style="color:green;"><strong>armes</strong></mark> vous octroient un <
 ### 🔸 <mark style="color:blue;">Clé Givrée ❄️</mark>
 
 La **<mark style="color:blue;">Clé Givrée</mark>** permet d'ouvrir la **[<mark style="color:blue;">Caisse Givrée ❄️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-givree)**.  
-Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Givrée</mark>**, disponibles uniquement durant **<mark style="color:blue;">l'événement Noël 2024</mark>**.
+Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Givrée</mark>**, disponibles uniquement durant **<mark style="color:blue;">l'événement Noël 2024</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ### 🔸 <mark style="color:red;">Clé de Cupidon 💕</mark>
 La **<mark style="color:red;">Clé de Cupidon</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse St-Valentin 💕</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-valentin)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Cupidon</mark>**, disponibles durant **<mark style="color:red;">l'événement St-Valentin 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Cupidon</mark>**, disponibles durant **<mark style="color:red;">l'événement St-Valentin 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ### 🔸 <mark style="color:green;">Clé du Léprechaun 🍀</mark>
 La **<mark style="color:green;">Clé du Léprechaun</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse St-Patrick 🍀</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-saint-patrick)**.  
-Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'événement St-Patrick 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Leprechaun</mark>**, disponibles durant **<mark style="color:green;">l'événement St-Patrick 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ### 🔸 <mark style="color:yellow;">Clé de Pâques 2025 🥚</mark>
 La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2025 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2025)**.  
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'événement Pâques 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Pâques</mark>**, disponibles durant **<mark style="color:yellow;">l'événement Pâques 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ### 🔸 <mark style="color:blue;">Clé Summer 🏖️</mark>
 La **<mark style="color:blue;">Clé Summer</mark>** permet d'ouvrir la **[<mark style="color:blue;">Caisse Summer 🏖️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-summer)**.  
-Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Summer</mark>**, disponibles durant **<mark style="color:blue;">l'événement Summer 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:blue;">16 Fragments de Clé Summer</mark>**, disponibles durant **<mark style="color:blue;">l'événement Summer 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ### 🔸 <mark style="color:yellow;">Clé Antique 🦴</mark>
 La **<mark style="color:yellow;">Clé Antique</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Antique 🦴</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-antique)**.  
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Antique</mark>**, qui sont obtenables en **<mark style="color:yellow;">terminant des statues</mark>** dans le Musée du spawn.
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de Clé Antique</mark>**, qui sont obtenables en **<mark style="color:yellow;">terminant des statues</mark>** dans le Musée du spawn ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ### 🔸 <mark style="color:red;">Clé Lune de Sang 🩸</mark>
 La **<mark style="color:red;">Clé Lune de sang</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Lune de Sang 🧛‍♂️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lune-de-sang)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'événement d'Halloween 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé de Lune de Sang</mark>**, disponibles durant **<mark style="color:red;">l'événement d'Halloween 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ### 🔸 <mark style="color:red;">Clé Pain d'épices 🍪</mark>
 La **<mark style="color:red;">Clé Pain d'épice</mark>** permet d'ouvrir la **[<mark style="color:red;">Caisse Pain d'épices 🍪</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-pain-depice)**.  
-Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épices</mark>**, disponibles durant **<mark style="color:red;">l'événement de Noël 2025</mark>**.
+Elle s'obtient en échange de **<mark style="color:red;">16 Fragments de Clé Pain d'épices</mark>**, disponibles durant **<mark style="color:red;">l'événement de Noël 2025</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 ###  🔸 <mark style="color:green;">Clé Lunaire 🎑</mark>
 La **<mark style="color:green;">Clé Lunaire</mark>** permet d'ouvrir la **[<mark style="color:green;">Caisse Lunaire 🎑:</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-lunaire)**.  
-Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Lunaire</mark>**, disponibles durant **<mark style="color:green;">l'événement du Nouvel an</mark>**
+Elle s'obtient en échange de **<mark style="color:green;">16 Fragments de Clé Lunaire</mark>**, disponibles durant **<mark style="color:green;">l'événement du Nouvel an</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
-### 🔸 <mark style="color:yellow;">Clé de Pâques 2026 🥚</mark>
+### 🔸 <mark style="color:yellow;">Clé de Pâques 2026 🐰</mark>
 La **<mark style="color:yellow;">Clé de Pâques</mark>** permet d'ouvrir la **[<mark style="color:yellow;">Caisse Pâques 2026 🥚</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses#caisse-paques-2026)**.
-Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de clé de Pâques</mark>**, disponibles dans la **<mark style="color:yellow;">boutique du monde pâques</mark>** avec **<mark style="color:yellow;">l'événement de Pâques</mark>**.
+Elle s'obtient en échange de **<mark style="color:yellow;">16 Fragments de clé de Pâques</mark>**, disponibles dans la **<mark style="color:yellow;">boutique du monde pâques</mark>** avec **<mark style="color:yellow;">l'événement de Pâques</mark>** ou via les <mark style="color:green;">fragments de clés aléatoire</mark> du [<mark style="color:green;">Donjon Avatar</mark>](https://wiki.evolucraft.fr/le-gameplay/donjon-avatar).
 
 **Et voilà, vous savez tout sur le marché noir d'Évolucraft, mais attention… ceci doit rester secret 🤫**
