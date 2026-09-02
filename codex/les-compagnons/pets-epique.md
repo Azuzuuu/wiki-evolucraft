@@ -384,7 +384,10 @@ description: Retrouvez ici toute la liste des compagnons épiques dans le serveu
      <p><mark style="color:blue;"><strong>Niv. 15</strong></mark> → <mark style="color:blue;"><strong>+7,5%</strong></mark> d'EXP <mark style="color:blue;"><strong>Métiers</strong></mark></p>
      <p><mark style="color:blue;"><strong>Niv. 20</strong></mark> → <mark style="color:blue;"><strong>✨ Régénération de Mana</strong></mark> +1</p>
    </td>
-   <td>* Œuf de famillier (Caisse Élémentaire ☄️)</td>
+   <td>
+     <p>* Œuf de famillier (Caisse Élémentaire ☄️)</p>
+     <p>* Récompenses de Donjon Avatar 🌌</p>
+   </td>
   </tr>
   <tr>
    <td><mark style="color:blue;"><strong>Arhi</strong></mark></td>
