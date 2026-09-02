@@ -83,8 +83,7 @@ Si vous voulez faire un petit concours dans votre ville, il existe la possibilit
 | <mark style="color:white;">**🥈 2e**</mark> | <mark style="color:blue;">**4 000 Gemmes 💎**</mark> + <mark style="color:white;">**Sceptre du roi**</mark> + <mark style="color:white;">**Tag Ville Argent**</mark> | 
 | <mark style="color:orange;">**🥉 3e**</mark> | <mark style="color:blue;">**3 000 Gemmes 💎**</mark> + <mark style="color:orange;">**Sceptre du roi**</mark> + <mark style="color:orange;">**Tag Ville Bronze**</mark> | 
 | <mark style="color:green;">**4e à 5e**</mark>| <mark style="color:blue;">**1 500 Gemmes 💎**</mark> | 
-| <mark style="color:green;">**6e à 10e**</mark>| <mark style="color:yellow;">**1M 500K 💲**</mark> | 
-| <mark style="color:green;">**11e à 25e**</mark>| <mark style="color:yellow;">**1M 💲**</mark> |
+| <mark style="color:green;">**6e à 25e**</mark>| <mark style="color:yellow;">**5M 💲**</mark> | 
 
 {% hint style="warning" %}
 ⚠️ Les <mark style="color:green;">**tags**</mark> sont valables uniquement pendant <mark style="color:green;">**le mois suivant**</mark>.  
