@@ -282,6 +282,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
     <td>
       <p>* Boss du Donjon Laboratoire Glaciale ⚗️</p>
       <p>* Récompense du Donjon Laboratoire Glaciale ⚗️</p>
+      <p>* Récompenses de Donjon Infini ♾️</p>
     </td>
   </tr>
   <tr>
