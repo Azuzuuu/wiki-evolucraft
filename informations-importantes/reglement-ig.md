@@ -79,6 +79,7 @@ Cependant, vous pouvez activer [l'option du message automatique](https://wiki.ev
   * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.
     * Par exemple, il est interdit de vendre deux clés au prix lambda, et une, au milieu, beaucoup plus chère.
     * Il est interdit de faire monter ou baisser intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
+    * Il est interdit d'échanger des pièces de musée pour récupérer/racheter les fragments de clé, car cela revient à abuser, volontairement ou non, de la méconnaissance des joueurs quant au caractère irréversible de cette action.
     * Et bien d'autres cas. Si vous avez un doute, faites un ticket !
 * Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagnée ou les récompenses liées à leur mort.
 * Les contrats ou accords entre joueurs sont à vos risques et périls. Cependant, si un item a commencé à être payé alors le marché devra être respecté et être totalement honoré.
@@ -141,7 +142,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
-* Monter les items évolutifs de manière classique, il est donc interdit de monter la pelle évolutive avec une ferme à neige, en utilisant la technique du poser/casser ou encore d'un usebug pour monter ces items évolutifs.
+* Monter les items évolutifs de manière classique, il est donc interdit de monter avec des fermes pouvant générer un block permettant de faire monter l'outil, en utilisant la technique du poser/casser ou encore d'un usebug pour monter ces items évolutifs.
 
 {% hint style="danger" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
@@ -159,11 +160,11 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
     * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
   * Schematica / Litematica (Sans activer l'option printer ou easyplace/autoplace).
   * Toggle Sneak / Sprint.
-  * Pack de texture avec le contour des minerais
+  * Pack de texture ajoutant un contour au block recherché/une couleur qui se distinct à l'oeuil
 
 #### <mark style="color:red;">Sont interdits</mark> :
 
-* **Tous les mods donnant un avantage sur les autres joueurs :**
+* **Tous les mods/option donnant un avantage sur les autres joueurs :**
   * X-Ray / FreeCam / Pack Anti-Brouillard Lave/Eau
   * Schematica Printer, Easy Place/AutoPlace & copy/paste
     * Ainsi que tout mod qui permet de poser ou planter plus rapidement
