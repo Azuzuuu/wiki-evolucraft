@@ -130,19 +130,19 @@ Voici les commandes à connaître pour gérer votre ville :
 
 ### 🔸 Globales 🌏
 
-* <mark style="color:green;">**`/v create <nom de votre ville>`**</mark> : Crée votre ville.
-* <mark style="color:green;">**`/v`**</mark> : Ouvre le menu de votre ville.
-* <mark style="color:green;">**`/v sethome`**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**/**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/v setspawn`**</mark> : Définit le point de téléportation de votre ville.
-* <mark style="color:green;">**`/v home`**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**/**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/v spawn`**</mark> : Se téléporte au home de votre ville.
-* <mark style="color:green;">**`/v leave <nom de votre ville>`**</mark> : Quitte la ville choisie.
-* <mark style="color:green;">**`/v info [nom de la ville]`**</mark> : Affiche les informations de la ville.
+* <mark style="color:green;">**`/pays`**</mark> : Permet d’ouvrir le menu des différents pays disponibles pour la création de votre ville.
+* <mark style="color:green;">**`/ville`**</mark> ou <mark style="color:green;">**`/v`**</mark> : Permet d’ouvrir le menu de la ville.
+* <mark style="color:green;">**`/v create [Nom de la ville]`**</mark> : Permet de créer votre ville.
+* <mark style="color:green;">**`/v setspawn`**</mark> ou <mark style="color:green;">**`/v sethome`**</mark> : Permet de redéfinir le spawn de la ville.
+* <mark style="color:green;">**`/v spawn`**</mark> ou <mark style="color:green;">**`/v home`**</mark> : Permet de vous téléporter au point de spawn de la ville.
+* <mark style="color:green;">**`/v leave [Nom de la ville]`**</mark> : Permet de quitter la ville indiquée.
+* <mark style="color:green;">**`/v info [Nom de la ville]`**</mark> : Permet de voir les informations de la ville.
 * <mark style="color:green;">**`/v select`**</mark> : Permet de choisir sa ville principale.
-* <mark style="color:green;">**`/v pinfo [joueur]`**</mark> : Donne des informations concernant la ville du joueur.
-* <mark style="color:green;">**`/v list`**</mark> : Donne la liste de toutes les villes présentes sur le serveur.
-* <mark style="color:green;">**`/v player [joueur]`**</mark> : Donne les informations d'un joueur : ville, statut dans la ville, dernière connexion.
-* <mark style="color:green;">**`/v bank deposit [montant]`**</mark> : Permet de déposer de l'argent dans votre banque de ville.
-* <mark style="color:green;">**`/v bank withdraw [montant]`**</mark> : Permet de reprendre de l'argent dans votre banque de ville. _(Accessible si vous avez la permission dans votre rôle de ville)_
-* <mark style="color:green;">**`/v disband --confirm`**</mark> : Supprime votre ville.
+* <mark style="color:green;">**`/v player [Pseudo]`**</mark> : Donne des informations concernant le joueur sur les ville qu'il a rejoint, son statut ou encore sa dernière connexion.
+* <mark style="color:green;">**`/limites`**</mark> : Affiche les limites de blocs dans les chunks d'une ville.
+* <mark style="color:green;">**`/v bank deposit [Montant]`**</mark> : Permet de déposer de l'argent dans la banque de la ville sélectionnée.
+* <mark style="color:green;">**`/v bank withdraw [Montant]`**</mark> : Permet de retirer de l'argent de la banque de la ville sélectionnée.
+* <mark style="color:green;">**`/v disband --confirm`**</mark> : Permet de supprimer votre ville définitivement.
 
 {% hint style="warning" %}
 **Important 🚨** Avant de confirmer la suppression de votre ville, pensez à récupérer l’argent de votre ville avec la commande `/v bank withdraw [montant]` et à récupérer le stuff qui se trouve dans votre ville !
@@ -150,27 +150,28 @@ Voici les commandes à connaître pour gérer votre ville :
 
 ### 🔸 Gestion des joueurs 👩🏻‍🤝‍🧑🏽
 
-* <mark style="color:green;">**`/v add [joueur]`**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**/**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**`/v invite [joueur]`**</mark> : Invite un joueur dans votre ville.
+
+* <mark style="color:green;">**`/v add [Pseudo du joueur]`**</mark> ou <mark style="color:green;">**`/v invite [Pseudo du joueur]`**</mark>: Permet d'inviter un joueur dans votre ville.
 * <mark style="color:green;">**`/v accept [joueur]`**</mark> : Accepte la demande d'adhésion d'un joueur à votre ville.
-* <mark style="color:green;">**`/v kick [joueur]`**</mark> : Retire un joueur de votre ville.
-* <mark style="color:green;">**`/v ban [joueur]`**</mark> : Bannit un joueur de votre ville.
-* <mark style="color:green;">**`/v unban [joueur]`**</mark> : Retire le bannissement du joueur visé.
-* <mark style="color:green;">**`/v setrole [joueur] [rôle]`**</mark> : Modifie le rôle des joueurs présents dans votre ville.
-* <mark style="color:green;">**`/v setowner [joueur]`**</mark> : Donne le rôle de maire au joueur désigné.
-* <mark style="color:green;">**`/v members`**</mark> : Donne la liste des joueurs connectés dans la ville.
+* <mark style="color:green;">**`/v kick [Pseudo]`**</mark> : Permet d'expulser un joueur de votre ville.
+* <mark style="color:green;">**`/v ban [Pseudo]`**</mark> : Permet de bannir un joueur de votre ville.
+* <mark style="color:green;">**`/v unban [Pseudo]`**</mark> : Permet de débannir un joueur de votre ville.
+* <mark style="color:green;">**`/v setowner [Pseudo] --confirm`**</mark> : Permet de transférer la fonction de maire à un autre joueur.
+* <mark style="color:green;">**`/v members`**</mark> : Permet de voir les membres de la ville actuellement connectés.
 
 ### 🔸 Gestion des claims 🗺️
 
 * <mark style="color:green;">**`/v map`**</mark> : Donne la topographie des villes à l'endroit où vous vous situez.
-* <mark style="color:green;">**`/v claim`**</mark> : Claim le chunk sur lequel vous vous situez.
-* <mark style="color:green;">**`/v unclaim`**</mark> : Retire le claim du chunk sur lequel vous vous situez.
-* <mark style="color:green;">**`/v autoclaim`**</mark> : Claim automatiquement les chunks sur lesquels vous marchez.
-* <mark style="color:green;">**`/v view`**</mark> : Affiche la délimitation de votre ville avec des particules vertes.
+* <mark style="color:green;">**`/v view`**</mark> : Affiche la délimitation de votre ville.
+* <mark style="color:green;">**`/v subarea view`**</mark> : Permet de voir les sous-zones dans la ville.
+* <mark style="color:green;">**`/v claim`**</mark> : Permet d'agrandir votre ville.
+* <mark style="color:green;">**`/v unclaim`**</mark> : Permet de retirer de votre ville le chunk où vous vous trouvez.
+* <mark style="color:green;">**`/v autoclaim`**</mark> : Permet d'agrandir automatiquement votre ville au fil de vos déplacements.
 
 ### 🔸 Chat de ville 💬
 
-* <mark style="color:green;">**`/v chat`**</mark> : Active le chat de votre ville.
-* <mark style="color:green;">**`/v chat message`**</mark> : Écrit dans le chat de la ville sans l'activer.
+* <mark style="color:green;">**`/v chat <Message>`**</mark> ou <mark style="color:green;">**`!<Message>`**</mark> : Permet d'envoyer ponctuellement un message dans le chat de votre ville.
+* <mark style="color:green;">**`/v chat toggle`**</mark> : Permet d'utiliser le chat de votre ville jusqu'à sa désactivation.
 
 {% hint style="success" %}
 Votre futur royaume est à vos pieds !
