@@ -16,7 +16,7 @@ Si vous souhaitez <mark style="color:green;">divorcer de votre moitié</mark>, i
 
 ## 💠 <mark style="color:green;">Les commandes ❔</mark>
 
-- <mark style="color:green;">`/marry request`</mark> -> pour proposer le mariage aux deux personnes (commande réservée aux modérateurs et plus)
+- <mark style="color:green;">`/marry request`</mark> -> pour proposer le mariage aux deux personnes (commande réservée aux staffs pour la modération)
 - <mark style="color:green;">`/marry accept`</mark> -> pour accepter la demande ✅
 - <mark style="color:green;">`/marry decline`</mark> -> pour décliner la demande ❌
 - <mark style="color:green;">`/marry kiss`</mark> -> pour embrasser sa moitié 😙
