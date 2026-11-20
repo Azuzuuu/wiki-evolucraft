@@ -140,7 +140,7 @@ Retrouvez ici toutes les informations concernant les commandes disponibles sur l
 
 * <mark style="color:green;">**`/pays`**</mark> : Permet d’ouvrir le menu des différents pays disponibles pour la création de votre ville.
 * <mark style="color:green;">**`/ville`**</mark> ou <mark style="color:green;">**`/v`**</mark> : Permet d’ouvrir le menu de la ville.
-* <mark style="color:green;">**`/v create [Nom de la ville]` : Permet de créer votre ville.
+* <mark style="color:green;">**`/v create [Nom de la ville]`**</mark> : Permet de créer votre ville.
 * <mark style="color:green;">**`/v claim`**</mark> : Permet d'agrandir votre ville.
 * <mark style="color:green;">**`/v autoclaim`**</mark> : Permet d'agrandir automatiquement votre ville au fil de vos déplacements.
 * <mark style="color:green;">**`/v unclaim`**</mark> : Permet de retirer de votre ville le chunk où vous vous trouvez.
